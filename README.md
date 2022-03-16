@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! My name is Dani.</h1>
 
-💡 &nbsp; I'm a software developer, currently working in a Murcia company developing web applications.\
+💡 &nbsp; I'm a software developer, currently working in a Málaga company developing web applications.\
 🎓 &nbsp;I studied web application development and cross-platform application development at EFA el campico.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence since it is a field that I am passionate about.\
-✍️ &nbsp;In my free time, I play guitar, travel and do motorcycle routes.\
+✍️ &nbsp;In my free time travel and do motorcycle routes.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at danijmurcia@gmail.com. I'll try to respond as soon as possible!
 
